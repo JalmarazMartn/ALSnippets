@@ -1,3 +1,9 @@
+# Miscelaneous AL snippets in individual files.
+Copy them in yor work folder ex.:C:\Users\Jesus<Your user>\AppData\Roaming\Code\User\snippets
+
+# Test dependencies Snippet.
+Bring to your app.json file all test app dependencies when you type TtestDependencies. Tabstop for version.
+
 # AL Navision/Business Central Notification Snippet
 This is a JSON Snippet to implement Notifications in AL Business Central.
 Create a new Codeunit with all the methods to create a new Notification in a very easy way.
