@@ -7,7 +7,6 @@ Bring to your app.json file all test app dependencies when you type TtestDepende
 # AL Navision/Business Central Notification Snippet
 This is a JSON Snippet to implement Notifications in AL Business Central.
 Create a new Codeunit with all the methods to create a new Notification in a very easy way.
-Can be used pasting this Code in AL.Json Appata  file.
 Tabstops decription:
 - Codeunit ID. Codeunit number. Example 50001.
 - Codeunit Name. Example: "Sales Line Price Check".
