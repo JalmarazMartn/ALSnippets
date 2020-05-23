@@ -1,5 +1,5 @@
 # Miscelaneous AL snippets in individual files.
-Copy them in your work folder ex.:C:\Users\<Your user>\AppData\Roaming\Code\User\snippets
+Copy them in your work folder ex.:C:\Users\\<Your user>\AppData\Roaming\Code\User\snippets
 
 # Test dependencies Snippet.
 Bring to your app.json file all test app dependencies when you type TtestDependencies. Tabstop for version.
