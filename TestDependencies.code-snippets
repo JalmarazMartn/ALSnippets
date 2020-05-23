@@ -1,0 +1,33 @@
+{
+	"Test Dependencies": {		
+		"prefix": "Ttestdependencies",		
+		"scope": "json",				
+		"body": [
+			"      {\r",
+			"        \"appId\": \"e7320ebb-08b3-4406-b1ec-b4927d3e280b\",\r",
+			"        \"name\": \"Any\",\r",
+			"        \"publisher\": \"Microsoft\",\r",
+			"        \"version\": \"$LibraryVersion\"\r",
+			"      },   \r",
+			"      {\r",
+			"        \"appId\": \"dd0be2ea-f733-4d65-bb34-a28f4624fb14\",\r",
+			"        \"name\": \"Library Assert\",\r",
+			"        \"publisher\": \"Microsoft\",\r",
+			"        \"version\": \"$LibraryVersion\"\r",
+			"      },\r",
+			"      {\r",
+			"        \"appId\": \"9856ae4f-d1a7-46ef-89bb-6ef056398228\",\r",
+			"        \"name\": \"System Application Test Library\",\r",
+			"        \"publisher\": \"Microsoft\",\r",
+			"        \"version\": \"$LibraryVersion\"\r",
+			"      },\r",
+			"      {\r",
+			"        \"appId\": \"5d86850b-0d76-4eca-bd7b-951ad998e997\",\r",
+			"        \"name\": \"Tests-TestLibraries\",\r",
+			"        \"publisher\": \"Microsoft\",\r",
+			"        \"version\": \"$LibraryVersion\"\r",
+			"      }"
+		],
+		"description": "Test dependencies BC"
+	}
+}
