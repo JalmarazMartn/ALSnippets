@@ -4,6 +4,9 @@ Copy them in your work folder %APPDATA%\Code\User\snippets
 # Test dependencies Snippet.
 Bring to your app.json file all test app dependencies when you type TtestDependencies. Tabstop for version.
 
+#Singleton Pattern 
+This is a https://github.com/al-design-patterns/al.singleton snippet implementation. Pattern=Snippet!!
+
 # AL Navision/Business Central Notification Snippet
 This is a JSON Snippet to implement Notifications in AL Business Central.
 Create a new Codeunit with all the methods to create a new Notification in a very easy way.
